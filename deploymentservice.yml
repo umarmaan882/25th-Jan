@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: whale
-        image: umarmaan882/hellowhale:v1
+        image: umarmaan882/hellowhale:v2
         ports:
         - containerPort: 80
         
